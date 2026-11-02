@@ -1,6 +1,4 @@
 
-# Hi there, I'm  Niu Haofei👋
-
 ### Mathematics Graduate Student | Operations Research & Optimization
 
 🎓 Graduate student at Beijing Institute of Technology, China.
